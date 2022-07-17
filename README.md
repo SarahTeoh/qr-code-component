@@ -12,10 +12,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-Desktop
+##### Desktop
 <img src="desktop.png" alt="desktop" height="300">
 
-Mobile
+##### Mobile
 <img src="mobile.png" alt="mobile" height="400">
 
 ### Built with
