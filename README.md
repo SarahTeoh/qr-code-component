@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -17,6 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ##### Mobile
 <img src="mobile.png" alt="mobile" height="400">
+
+### Links
+
+- Live Site URL: [QR code component](https://sarahteoh.github.io/qr-code-component/)
+
+## My process
 
 ### Built with
 
